@@ -1,0 +1,7 @@
+pseudo elements
+tranzition 
+transform 
+animation tools css
+cssanimate.com
+codepen.com
+box sizing meselesine bax
